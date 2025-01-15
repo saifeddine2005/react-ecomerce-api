@@ -1,0 +1,152 @@
+{
+    "products": [
+      {
+        "img": "/images/prod1.png",
+        "rating": "★★★★",
+        "title": "Airdopes 131",
+        "price": "1500",
+        "quantity": "1",
+        "id": "1",
+        "catgory": "Airdopes",
+        "Name": null,
+        "Email": null,
+        "City": null
+      },
+      {
+        "img": "/images/prod2.png",
+        "rating": "★★★★",
+        "title": "boAt 228",
+        "price": "1400",
+        "quantity": "1",
+        "id": "2",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod3.png",
+        "rating": "★★★★",
+        "title": "JBL",
+        "price": "900",
+        "quantity": "1",
+        "id": "3",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod4.png",
+        "rating": "★",
+        "title": "TWS",
+        "price": "500",
+        "quantity": "1",
+        "id": "4",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod5.png",
+        "rating": "★★",
+        "title": "JBL",
+        "price": "1050",
+        "quantity": "1",
+        "id": "5",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod6.png",
+        "rating": "★★★★",
+        "title": "JBL Airbord 121",
+        "price": "15000",
+        "quantity": "1",
+        "id": "6",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod7.png",
+        "rating": "★★★★",
+        "title": "boAt HeadPhone Pro",
+        "price": "10000",
+        "quantity": "1",
+        "id": "7",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/prod8.png",
+        "rating": "★",
+        "title": "TWS",
+        "price": "500",
+        "quantity": "1",
+        "id": "8",
+        "catgory": "Airdopes"
+      },
+      {
+        "img": "/images/V17pro.png",
+        "rating": "★★★★",
+        "title": "V17pro",
+        "price": "20000",
+        "quantity": "1",
+        "id": "9",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "/images/V25pro.png",
+        "rating": "★★★★",
+        "title": "V25pro",
+        "price": "30000",
+        "quantity": "1",
+        "id": "10",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "/images/X60pro.png",
+        "rating": "★★★★",
+        "title": "X60pro",
+        "price": "55000",
+        "quantity": "1",
+        "id": "11",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "/images/X70pro.png",
+        "rating": "★★★★",
+        "title": "X70pro",
+        "price": "59000",
+        "quantity": "1",
+        "id": "12",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "/images/X80pro.png",
+        "rating": "★★★★",
+        "title": "X80pro",
+        "price": "80000",
+        "quantity": "1",
+        "id": "13",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "/images/V23.png",
+        "rating": "★★★★",
+        "title": "V23",
+        "price": "50000",
+        "quantity": "1",
+        "id": "14",
+        "catgory": "Mobile"
+      },
+      {
+        "img": "https://i.ibb.co/5RwccFs/81wx-S8abrg-L-AC-UY327-QL65.jpg",
+        "rating": "★★★★",
+        "title": "Sony Bravia 4K UltraHD (65 Inches)",
+        "price": "77990",
+        "quantity": "1",
+        "id": "15",
+        "catgory": "TV"
+      },
+      {
+        "img": "https://i.ibb.co/9gNK5YF/61-LWRPDm-N-L-AC-UY327-QL65.jpg",
+        "rating": "★★★★",
+        "title": "LG 4K UltraHD (43 Inches)",
+        "price": "39999",
+        "quantity": "1",
+        "id": "16",
+        "catgory": "TV"
+      }
+    ]
+  }
+  
